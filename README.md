@@ -7,3 +7,6 @@ Software engineering is about how the function add reacts in arrays when we inpu
 As a first step of my study plan i created my own flash card app. Design not so looks elegant but it works fine. Users can add their study card and retrive it as their wish random question selection to test ourselves.  
 [This app]( https://github.com/ronobebe/Flash_Card ) is my own pareparation works completely in ofline using SQlite DataBase. SO if any one need data please retrive you db and restore it anyWhere.
 
+# DataStructures
+So for Now i created a [Simple project]( https://github.com/ronobebe/DataStructures )t to practise my self. In that i created copy of each datastructure [mentioned here.]( https://github.com/ronobebe/ComputerEngineerStudyPlan#arrays )
+
